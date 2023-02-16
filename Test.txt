@@ -1,0 +1,18 @@
+This is a test
+
+
+git init 
+
+git add .
+
+git commit -m "any message"
+
+
+//now to push in remote repo 
+
+//make a github repo first and copy the link then 
+
+
+git remote add origin [github url]  
+
+git push -u origin main 
